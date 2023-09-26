@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C9\ex64\bin\Debug\net6.0\ex64.exe
+C:\Users\acer\Desktop\C9\ex64\bin\Debug\net6.0\ex64.deps.json
+C:\Users\acer\Desktop\C9\ex64\bin\Debug\net6.0\ex64.runtimeconfig.json
+C:\Users\acer\Desktop\C9\ex64\bin\Debug\net6.0\ex64.dll
+C:\Users\acer\Desktop\C9\ex64\bin\Debug\net6.0\ex64.pdb
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.AssemblyInfo.cs
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.dll
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\refint\ex64.dll
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.pdb
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ex64.genruntimeconfig.cache
+C:\Users\acer\Desktop\C9\ex64\obj\Debug\net6.0\ref\ex64.dll
